@@ -1,0 +1,4 @@
+Write a python programme that collects the following information from users:First name, last name, gender,age, hometown, current city, country of residence, educational level.
+print the output of all this information in upper case.
+if hometown is the same as current city, print only one of them.
+Write a funtion named, my_details. this function should output all those information collected from the user.
